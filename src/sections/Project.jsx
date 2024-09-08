@@ -34,7 +34,7 @@ function Project() {
       id: 4,
       src: blockcahin_app,
       link: 'https://aethereo.netlify.app/',
-      repo: '',
+      repo: 'https://github.com/sam6akj/Web-blockchain-app',
       about: 'Aethero: Send crypto globally with ease.',
       buttonType: 'Demo & GitHub'
     }
