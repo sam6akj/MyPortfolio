@@ -26,7 +26,7 @@ function Project() {
       id: 3,
       src: portfolio,
       link: '',
-      repo: 'https://github.com/sam6akj/portfolio',
+      repo: 'https://github.com/sam6akj/MyPortfolio',
       buttonType: 'GitHub',
       about: 'Discover how my innovative web development and data insights create unique, functional, and visually captivating solutions'
     },
