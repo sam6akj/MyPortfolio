@@ -34,7 +34,7 @@ function Project() {
       id: 4,
       src: blockcahin_app,
       link: 'https://aethereo.netlify.app/',
-      repo: 'https://github.com/rahulkarda/Wave-Portal',
+      repo: '',
       about: 'Aethero: Send crypto globally with ease.',
       buttonType: 'Demo & GitHub'
     }
